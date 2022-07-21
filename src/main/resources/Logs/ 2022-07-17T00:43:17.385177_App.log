@@ -1,0 +1,6 @@
+Jul 17, 2022 12:43:17 AM com.clientutil.controller.ClientEndpointController getStatusofURL
+INFO: com.clientutil.entity.URL1@1b26d38d		Status:-> Red <-	Wrong domain - Exception: no protocol: com.clientutil.entity.URL1@1b26d38d
+Jul 17, 2022 12:43:17 AM com.clientutil.controller.ClientEndpointController getStatusofURL
+INFO: com.clientutil.entity.URL1@6851adb		Status:-> Red <-	Wrong domain - Exception: no protocol: com.clientutil.entity.URL1@6851adb
+Jul 17, 2022 12:43:17 AM com.clientutil.controller.ClientEndpointController getStatusofURL
+INFO: com.clientutil.entity.URL1@6ed9a73		Status:-> Red <-	Wrong domain - Exception: no protocol: com.clientutil.entity.URL1@6ed9a73

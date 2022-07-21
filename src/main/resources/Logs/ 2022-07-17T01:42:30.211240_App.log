@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-16T20:12:30.218049Z</date>
+  <millis>1658002350218</millis>
+  <nanos>49000</nanos>
+  <sequence>4</sequence>
+  <logger>com.clientutil.controller</logger>
+  <level>INFO</level>
+  <class>com.clientutil.controller.ClientEndpointController</class>
+  <method>getStatusofURL</method>
+  <thread>31</thread>
+  <message>com.clientutil.entity.URL1@64497c66		Status:Wrong domain - Exception: no protocol: com.clientutil.entity.URL1@64497c66</message>
+</record>
+<record>
+  <date>2022-07-16T20:12:30.222094Z</date>
+  <millis>1658002350222</millis>
+  <nanos>94000</nanos>
+  <sequence>5</sequence>
+  <logger>com.clientutil.controller</logger>
+  <level>INFO</level>
+  <class>com.clientutil.controller.ClientEndpointController</class>
+  <method>getStatusofURL</method>
+  <thread>31</thread>
+  <message>com.clientutil.entity.URL1@3b9ffcf6		Status:Wrong domain - Exception: no protocol: com.clientutil.entity.URL1@3b9ffcf6</message>
+</record>
+<record>
+  <date>2022-07-16T20:12:30.222706Z</date>
+  <millis>1658002350222</millis>
+  <nanos>706000</nanos>
+  <sequence>6</sequence>
+  <logger>com.clientutil.controller</logger>
+  <level>INFO</level>
+  <class>com.clientutil.controller.ClientEndpointController</class>
+  <method>getStatusofURL</method>
+  <thread>31</thread>
+  <message>com.clientutil.entity.URL1@2e18b145		Status:Wrong domain - Exception: no protocol: com.clientutil.entity.URL1@2e18b145</message>
+</record>
+</log>
